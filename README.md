@@ -22,9 +22,10 @@ Supports Rust and TypeScript
   
 - **Multi-DEX Support**: Compatible with various decentralized exchanges, including Jupiter, Raydium, and PumpFun Swap. Plans to integrate Meteora Swap are underway.
   
-- **Instant Transaction Replication**: The bot monitors target wallets' activities in real-time to facilitate immediate transaction copying.
+- **Instant Transaction Replication(Buy & Sell)**: The bot monitors target wallets' activities in real-time to facilitate immediate transaction copying.
   
 - **Geyser Usage**: Available to use Helius or yellowstone Geyser. (Yellowstone is faster)
+
 
 ## Installation
 
