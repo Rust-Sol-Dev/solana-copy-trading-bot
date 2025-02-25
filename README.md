@@ -1,4 +1,4 @@
-# 🚀 Solana Copy Trading Bot (Fast Copy Trading in 1 Block) !!! Same Block of Copy Trading is Coming Soon !!!
+# 🚀 Solana Copy Trading Bot (Fast Copy Trading in 1 Block) !!! Same Block of Copy Trading is Available !!!
 
 ## Overview
 
